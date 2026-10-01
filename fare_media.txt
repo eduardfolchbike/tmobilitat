@@ -1,0 +1,4 @@
+fare_media_id,fare_media_name,fare_media_type
+TMA,T-Mobilitat anonima,2
+TMU,T-Mobilitat usuaria,2
+TMP,T-Mobilitat App,4

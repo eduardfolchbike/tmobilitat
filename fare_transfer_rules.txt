@@ -1,0 +1,8 @@
+from_leg_group_id,to_leg_group_id,duration_limit,duration_limit_type,transfer_count,fare_transfer_type,fare_product_id,nonconsecutive_transfers_allowed 
+Z1_MV,Z1_MV,4500,1,3,0,,
+Z2_MV,Z2_MV,5400,1,3,0,,
+Z3_MV,Z3_MV,6300,1,3,0,,
+Z4_MV,Z4_MV,7200,1,3,0,,
+Z5_MV,Z5_MV,8100,1,3,0,,
+Z6_MV,Z6_MV,9000,1,3,0,,
+Z7_MV,Z7_MV,12600,1,3,0,,

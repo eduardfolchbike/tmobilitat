@@ -1,0 +1,4 @@
+rider_category_id,rider_category_name,is_default_fare_category,eligibility_url
+menors_30,Menors de 30 anys,,https://www.atm.cat/titols-tarifes/titols-i-tarifes/tarifaciosocial
+monoparental_nombrosa,Familia monoparental o nombrosa,,https://www.atm.cat/titols-tarifes/titols-i-tarifes/tarifaciosocial
+menors_16,Menors de 16 anys,,https://www.atm.cat/titols-tarifes/titols-i-tarifes/tarifaciosocial

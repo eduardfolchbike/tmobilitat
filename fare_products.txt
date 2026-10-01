@@ -1,0 +1,216 @@
+fare_product_id,fare_product_name,rider_category_id ,fare_media_id,amount,currency
+TC1,T-Casual,,TMA,13.00,EUR
+TC1,T-Casual,,TMU,13.00,EUR
+TC1,T-Casual,,TMP,13.00,EUR
+TU1,T-Usual,,TMA,22.80,EUR
+TU1,T-Usual,,TMU,22.80,EUR
+TU1,T-Usual,,TMP,22.80,EUR
+TC2,T-Casual,,TMA,25.50,EUR
+TC2,T-Casual,,TMU,25.50,EUR
+TC2,T-Casual,,TMP,25.50,EUR
+TU2,T-Usual,,TMA,30.55,EUR
+TU2,T-Usual,,TMU,30.55,EUR
+TU2,T-Usual,,TMP,30.55,EUR
+TC3,T-Casual,,TMA,34.70,EUR
+TC3,T-Casual,,TMU,34.70,EUR
+TC3,T-Casual,,TMP,34.70,EUR
+TU3,T-Usual,,TMA,42.70,EUR
+TU3,T-Usual,,TMU,42.70,EUR
+TU3,T-Usual,,TMP,42.70,EUR
+TC4,T-Casual,,TMA,44.65,EUR
+TC4,T-Casual,,TMU,44.65,EUR
+TC4,T-Casual,,TMP,44.65,EUR
+TU4,T-Usual,,TMA,52.15,EUR
+TU4,T-Usual,,TMU,52.15,EUR
+TU4,T-Usual,,TMP,52.15,EUR
+TC5,T-Casual,,TMA,51.20,EUR
+TC5,T-Casual,,TMU,51.20,EUR
+TC5,T-Casual,,TMP,51.20,EUR
+TU5,T-Usual,,TMA,59.60,EUR
+TU5,T-Usual,,TMU,59.60,EUR
+TU5,T-Usual,,TMP,59.60,EUR
+TC6,T-Casual,,TMA,54.45,EUR
+TC6,T-Casual,,TMU,54.45,EUR
+TC6,T-Casual,,TMP,54.45,EUR
+TU6,T-Usual,,TMA,63.85,EUR
+TU6,T-Usual,,TMU,63.85,EUR
+TU6,T-Usual,,TMP,63.85,EUR
+TC7,T-Casual,,TMA,57.60,EUR
+TC7,T-Casual,,TMU,57.60,EUR
+TC7,T-Casual,,TMP,57.60,EUR
+TU7,T-Usual,,TMA,67.65,EUR
+TU7,T-Usual,,TMU,67.65,EUR
+TU7,T-Usual,,TMP,67.65,EUR
+TJ,T-Jove,menors_30,TMA,45.50,EUR
+TJ,T-Jove,menors_30,TMU,45.50,EUR
+TJ,T-Jove,menors_30,TMP,45.50,EUR
+TJG,T-jove FM/FN general,monoparental_nombrosa,TMA,36.40,EUR
+TJG,T-jove FM/FN general,monoparental_nombrosa,TMU,36.40,EUR
+TJG,T-jove FM/FN general,monoparental_nombrosa,TMP,36.40,EUR
+TJE,T-jove FM/FN especial,monoparental_nombrosa,TMA,22.75,EUR
+TJE,T-jove FM/FN especial,monoparental_nombrosa,TMU,22.75,EUR
+TJE,T-jove FM/FN especial,monoparental_nombrosa,TMP,22.75,EUR
+T16,T-16,menors_16,TMA,00.00,EUR
+T16,T-16,menors_16,TMU,00.00,EUR
+T16,T-16,menors_16,TMP,00.00,EUR
+TF1,T-Familiar,,TMA,11.50,EUR
+TF2,T-Familiar,,TMA,21.75,EUR
+TF3,T-Familiar,,TMA,30.80,EUR
+TF4,T-Familiar,,TMA,39.95,EUR
+TF5,T-Familiar,,TMA,45.65,EUR
+TF6,T-Familiar,,TMA,47.95,EUR
+TF7,T-Familiar,,TMA,49.70,EUR
+TF1,T-Familiar,,TMU,11.50,EUR
+TF2,T-Familiar,,TMU,21.75,EUR
+TF3,T-Familiar,,TMU,30.80,EUR
+TF4,T-Familiar,,TMU,39.95,EUR
+TF5,T-Familiar,,TMU,45.65,EUR
+TF6,T-Familiar,,TMU,47.95,EUR
+TF7,T-Familiar,,TMU,49.70,EUR
+TF1,T-Familiar,,TMP,11.50,EUR
+TF2,T-Familiar,,TMP,21.75,EUR
+TF3,T-Familiar,,TMP,30.80,EUR
+TF4,T-Familiar,,TMP,39.95,EUR
+TF5,T-Familiar,,TMP,45.65,EUR
+TF6,T-Familiar,,TMP,47.95,EUR
+TF7,T-Familiar,,TMP,49.70,EUR
+TD1,T-Dia,,TMA,12.00,EUR
+TD2,T-Dia,,TMA,18.30,EUR
+TD3,T-Dia,,TMA,22.95,EUR
+TD4,T-Dia,,TMA,25.65,EUR
+TD5,T-Dia,,TMA,28.70,EUR
+TD6,T-Dia,,TMA,32.10,EUR
+TD7,T-Dia,,TMA,34.70,EUR
+TD1,T-Dia,,TMU,12.00,EUR
+TD2,T-Dia,,TMU,18.30,EUR
+TD3,T-Dia,,TMU,22.95,EUR
+TD4,T-Dia,,TMU,25.65,EUR
+TD5,T-Dia,,TMU,28.70,EUR
+TD6,T-Dia,,TMU,32.10,EUR
+TD7,T-Dia,,TMU,34.70,EUR
+TD1,T-Dia,,TMP,12.00,EUR
+TD2,T-Dia,,TMP,18.30,EUR
+TD3,T-Dia,,TMP,22.95,EUR
+TD4,T-Dia,,TMP,25.65,EUR
+TD5,T-Dia,,TMP,28.70,EUR
+TD6,T-Dia,,TMP,32.10,EUR
+TD7,T-Dia,,TMP,34.70,EUR
+TG1,T-Grup,,TMA,91.00,EUR
+TG2,T-Grup,,TMA,178.50,EUR
+TG3,T-Grup,,TMA,242.90,EUR
+TG4,T-Grup,,TMA,312.55,EUR
+TG5,T-Grup,,TMA,358.40,EUR
+TG6,T-Grup,,TMA,381.15,EUR
+TG7,T-Grup,,TMA,403.20,EUR
+TG1,T-Grup,,TMU,91.00,EUR
+TG2,T-Grup,,TMU,178.50,EUR
+TG3,T-Grup,,TMU,242.90,EUR
+TG4,T-Grup,,TMU,312.55,EUR
+TG5,T-Grup,,TMU,358.40,EUR
+TG6,T-Grup,,TMU,381.15,EUR
+TG7,T-Grup,,TMU,403.20,EUR
+TG1,T-Grup,,TMP,91.00,EUR
+TG2,T-Grup,,TMP,178.50,EUR
+TG3,T-Grup,,TMP,242.90,EUR
+TG4,T-Grup,,TMP,312.55,EUR
+TG5,T-Grup,,TMP,358.40,EUR
+TG6,T-Grup,,TMP,381.15,EUR
+TG7,T-Grup,,TMP,403.20,EUR
+T79G1,T-70/90 FM/FN general,monoparental_nombrosa,TMA,36.40,EUR
+T79G2,T-70/90 FM/FN general,monoparental_nombrosa,TMA,71.40,EUR
+T79G3,T-70/90 FM/FN general,monoparental_nombrosa,TMA,97.15,EUR
+T79G4,T-70/90 FM/FN general,monoparental_nombrosa,TMA,125.00,EUR
+T79G5,T-70/90 FM/FN general,monoparental_nombrosa,TMA,143.35,EUR
+T79G6,T-70/90 FM/FN general,monoparental_nombrosa,TMA,152.45,EUR
+T79G7,T-70/90 FM/FN general,monoparental_nombrosa,TMA,161.25,EUR
+T79G1,T-70/90 FM/FN general,monoparental_nombrosa,TMU,36.40,EUR
+T79G2,T-70/90 FM/FN general,monoparental_nombrosa,TMU,71.40,EUR
+T79G3,T-70/90 FM/FN general,monoparental_nombrosa,TMU,97.15,EUR
+T79G4,T-70/90 FM/FN general,monoparental_nombrosa,TMU,125.00,EUR
+T79G5,T-70/90 FM/FN general,monoparental_nombrosa,TMU,143.35,EUR
+T79G6,T-70/90 FM/FN general,monoparental_nombrosa,TMU,152.45,EUR
+T79G7,T-70/90 FM/FN general,monoparental_nombrosa,TMU,161.25,EUR
+T79G1,T-70/90 FM/FN general,monoparental_nombrosa,TMP,36.40,EUR
+T79G2,T-70/90 FM/FN general,monoparental_nombrosa,TMP,71.40,EUR
+T79G3,T-70/90 FM/FN general,monoparental_nombrosa,TMP,97.15,EUR
+T79G4,T-70/90 FM/FN general,monoparental_nombrosa,TMP,125.00,EUR
+T79G5,T-70/90 FM/FN general,monoparental_nombrosa,TMP,143.35,EUR
+T79G6,T-70/90 FM/FN general,monoparental_nombrosa,TMP,152.45,EUR
+T79G7,T-70/90 FM/FN general,monoparental_nombrosa,TMP,161.25,EUR
+T79E1,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,22.75,EUR
+T79E2,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,44.60,EUR
+T79E3,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,60.70,EUR
+T79E4,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,78.10,EUR
+T79E5,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,89.60,EUR
+T79E6,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,95.25,EUR
+T79E7,T-70/90 FM/FN especial,monoparental_nombrosa,TMA,100.80,EUR
+T79E1,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,22.75,EUR
+T79E2,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,44.60,EUR
+T79E3,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,60.70,EUR
+T79E4,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,78.10,EUR
+T79E5,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,89.60,EUR
+T79E6,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,95.25,EUR
+T79E7,T-70/90 FM/FN especial,monoparental_nombrosa,TMU,100.80,EUR
+T79E1,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,22.75,EUR
+T79E2,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,44.60,EUR
+T79E3,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,60.70,EUR
+T79E4,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,78.10,EUR
+T79E5,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,89.60,EUR
+T79E6,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,95.25,EUR
+T79E7,T-70/90 FM/FN especial,monoparental_nombrosa,TMP,100.80,EUR
+TUG1,T-usual FM/FN general,monoparental_nombrosa,TMA,18.20,EUR
+TUG2,T-usual FM/FN general,monoparental_nombrosa,TMA,24.40,EUR
+TUG3,T-usual FM/FN general,monoparental_nombrosa,TMA,34.15,EUR
+TUG4,T-usual FM/FN general,monoparental_nombrosa,TMA,41.70,EUR
+TUG5,T-usual FM/FN general,monoparental_nombrosa,TMA,47.65,EUR
+TUG6,T-usual FM/FN general,monoparental_nombrosa,TMA,51.05,EUR
+TUG7,T-usual FM/FN general,monoparental_nombrosa,TMA,54.10,EUR
+TUG1,T-usual FM/FN general,monoparental_nombrosa,TMU,18.20,EUR
+TUG2,T-usual FM/FN general,monoparental_nombrosa,TMU,24.40,EUR
+TUG3,T-usual FM/FN general,monoparental_nombrosa,TMU,34.15,EUR
+TUG4,T-usual FM/FN general,monoparental_nombrosa,TMU,41.70,EUR
+TUG5,T-usual FM/FN general,monoparental_nombrosa,TMU,47.65,EUR
+TUG6,T-usual FM/FN general,monoparental_nombrosa,TMU,51.05,EUR
+TUG7,T-usual FM/FN general,monoparental_nombrosa,TMU,54.10,EUR
+TUG1,T-usual FM/FN general,monoparental_nombrosa,TMP,18.20,EUR
+TUG2,T-usual FM/FN general,monoparental_nombrosa,TMP,24.40,EUR
+TUG3,T-usual FM/FN general,monoparental_nombrosa,TMP,34.15,EUR
+TUG4,T-usual FM/FN general,monoparental_nombrosa,TMP,41.70,EUR
+TUG5,T-usual FM/FN general,monoparental_nombrosa,TMP,47.65,EUR
+TUG6,T-usual FM/FN general,monoparental_nombrosa,TMP,51.05,EUR
+TUG7,T-usual FM/FN general,monoparental_nombrosa,TMP,54.10,EUR
+TUE1,T-usual FM/FN especial,monoparental_nombrosa,TMA,11.40,EUR
+TUE2,T-usual FM/FN especial,monoparental_nombrosa,TMA,15.25,EUR
+TUE3,T-usual FM/FN especial,monoparental_nombrosa,TMA,21.35,EUR
+TUE4,T-usual FM/FN especial,monoparental_nombrosa,TMA,26.05,EUR
+TUE5,T-usual FM/FN especial,monoparental_nombrosa,TMA,29.80,EUR
+TUE6,T-usual FM/FN especial,monoparental_nombrosa,TMA,31.90,EUR
+TUE7,T-usual FM/FN especial,monoparental_nombrosa,TMA,33.80,EUR
+TUE1,T-usual FM/FN especial,monoparental_nombrosa,TMU,11.40,EUR
+TUE2,T-usual FM/FN especial,monoparental_nombrosa,TMU,15.25,EUR
+TUE3,T-usual FM/FN especial,monoparental_nombrosa,TMU,21.35,EUR
+TUE4,T-usual FM/FN especial,monoparental_nombrosa,TMU,26.05,EUR
+TUE5,T-usual FM/FN especial,monoparental_nombrosa,TMU,29.80,EUR
+TUE6,T-usual FM/FN especial,monoparental_nombrosa,TMU,31.90,EUR
+TUE7,T-usual FM/FN especial,monoparental_nombrosa,TMU,33.80,EUR
+TUE1,T-usual FM/FN especial,monoparental_nombrosa,TMP,11.40,EUR
+TUE2,T-usual FM/FN especial,monoparental_nombrosa,TMP,15.25,EUR
+TUE3,T-usual FM/FN especial,monoparental_nombrosa,TMP,21.35,EUR
+TUE4,T-usual FM/FN especial,monoparental_nombrosa,TMP,26.05,EUR
+TUE5,T-usual FM/FN especial,monoparental_nombrosa,TMP,29.80,EUR
+TUE6,T-usual FM/FN especial,monoparental_nombrosa,TMP,31.90,EUR
+TUE7,T-usual FM/FN especial,monoparental_nombrosa,TMP,33.80,EUR
+BS1,Bitllet senzill,,TMA,2.90,EUR
+BS2,Bitllet senzill,,TMA,4.15,EUR
+BS3,Bitllet senzill,,TMA,5.40,EUR
+BS4,Bitllet senzill,,TMA,6.90,EUR
+BS5,Bitllet senzill,,TMA,8.80,EUR
+BS6,Bitllet senzill,,TMA,10.25,EUR
+BS7,Bitllet senzill,,TMA,11.60,EUR
+BS1,Bitllet senzill,,TMU,2.90,EUR
+BS2,Bitllet senzill,,TMU,4.15,EUR
+BS3,Bitllet senzill,,TMU,5.40,EUR
+BS4,Bitllet senzill,,TMU,6.90,EUR
+BS5,Bitllet senzill,,TMU,8.80,EUR
+BS6,Bitllet senzill,,TMU,10.25,EUR
+BS7,Bitllet senzill,,TMU,11.60,EUR
