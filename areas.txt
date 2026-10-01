@@ -1,0 +1,291 @@
+area_id,area_name
+1,1
+11,2E
+13,3A
+15,3B
+17,3C
+19,3D
+21,3E
+23,4A
+24,LesPlanes
+25,4B
+27,4C
+28,4Z
+29,4D
+3,2A
+30,4E
+31,4F
+32,4G
+34,4H
+35,Aeroport
+36,5A
+37,5B
+38,5C
+39,5D
+4,7C
+41,5E
+42,5F
+43,5G
+44,5H
+45,6A
+46,6B
+48,6D
+49,6F
+5,2B
+50,6G
+52,7H
+54,7G
+55,2A'
+57,6C
+58,6E
+59,6H
+6,7D
+60,2B'
+61,2C'
+62,7E
+63,7F
+7,2C
+9,2D
+FGC_1,FGC_FN
+FGC_2,FGC_TR
+FGC_3,FGC_VP
+FGC_4,FGC_EN
+FGC_5,FGC_NA
+FGC_6,FGC_RB
+FGC_7,FGC_NO
+FGC_8,FGC_ME
+FGC_9,FGC_MC
+FGC_10,FGC_SA
+FGC_11,FGC_PL
+FGC_12,FGC_MV
+FGC_13,FGC_AE
+FGC_14,FGC_OL
+FGC_15,FGC_CB
+FGC_16,FGC_MO
+FGC_17,FGC_VI
+FGC_18,FGC_SV
+FGC_19,FGC_BE
+FGC_20,FGC_CP
+FGC_21,FGC_MQ
+FGC_22,FGC_SE
+FGC_23,FGC_VA
+FGC_24,FGC_VN
+FGC_25,FGC_PO
+FGC_26,FGC_PI
+ROD_1,ROD_78710
+ROD_2,ROD_78704
+ROD_3,ROD_78703
+ROD_4,ROD_79502
+ROD_5,ROD_77109
+ROD_6,ROD_71600
+ROD_8,ROD_79600
+ROD_9,ROD_78606
+ROD_10,ROD_78607
+ROD_11,ROD_72501
+ROD_12,ROD_72209
+ROD_13,ROD_77104
+ROD_14,ROD_71603
+ROD_15,ROD_71604
+ROD_16,ROD_72202
+ROD_17,ROD_77005
+ROD_18,ROD_79007
+ROD_19,ROD_79200
+ROD_21,ROD_79106
+ROD_23,ROD_77100
+ROD_24,ROD_72206
+ROD_25,ROD_72205
+ROD_26,ROD_72201
+ROD_27,ROD_72203
+ROD_28,ROD_79500
+ROD_29,ROD_79107
+ROD_31,ROD_79607
+ROD_33,ROD_78604
+ROD_35,ROD_79412
+ROD_36,ROD_72503
+ROD_37,ROD_72508
+ROD_38,ROD_72210
+ROD_39,ROD_79102
+ROD_40,ROD_77006
+ROD_41,ROD_79608
+ROD_42,ROD_78700
+ROD_44,ROD_77105
+ROD_45,ROD_71601
+ROD_46,ROD_71602
+ROD_47,ROD_71703
+ROD_48,ROD_71700
+ROD_50,ROD_78605
+ROD_51,ROD_78610
+ROD_52,ROD_78609
+ROD_53,ROD_77107
+ROD_54,ROD_77110
+ROD_55,ROD_79006
+ROD_56,ROD_79604
+ROD_57,ROD_78709
+ROD_58,ROD_79103
+ROD_59,ROD_71701
+ROD_60,ROD_77102
+ROD_61,ROD_79100
+ROD_63,ROD_78600
+83008,Viladecavalls
+81897,Sant Pere Sallavinera
+80673,Centelles
+82969,Vallromanes
+82943,Vallgorguina
+81038,Jorba
+82264,Sant Marti de Tous
+81810,la Roca del Valles
+80229,Berga
+82068,Sant Cugat Sesgarrigues
+430379,Calafell
+431634,el Vendrell
+80116,Avia
+81445,Olvan
+82482,Santa Eulalia de Roncana
+170963,les Llosses
+80446,Capellades
+82325,Sant Pere de Riudebitlles
+82922,Vallbona d'Anoia
+82191,Vilassar de Mar
+430249,Bellvei
+80581,Castellet i la Gornal
+81568,Palau-solita i Plegamans
+82107,Sant Feliu de Codines
+82188,Sant Joan de Vilatorrada
+170806,Gombren
+171450,Ribes de Freser
+80057,l'Ametlla del Valles
+80462,Cardedeu
+80863,les Franqueses del Valles
+82346,Sant Pere de Vilamajor
+81458,Olerdola
+81483,Olivella
+82310,Sant Pere de Ribes
+80288,Cabrera d'Anoia
+80425,Canoves i Samalus
+250753,Clariana de Cardener
+251863,Riner
+251240,Lladurs
+81878,Sabadell
+82671,Sentmenat
+81271,Monistrol de Montserrat
+81799,Rellinars
+81385,Moia
+252234,Tora
+81430,Odena
+81136,Manresa
+81923,Santpedor
+80142,Aiguafreda
+80478,Cardona
+80253,el Bruc
+80765,Esparreguera
+430516,Cunit
+80749,Cubelles
+80692,Collbato
+82732,Subirats
+431401,Santa Oliva
+170366,Campdevanol
+80522,Castellar de n'Hug
+81350,Montmelo
+81363,Montornes del Valles
+81173,les Masies de Voltrega
+81120,Manlleu
+171019,Massanes
+80082,Argencola
+80713,Copons
+81228,Mediona
+82883,Torrelles de Foix
+83020,Vilanova del Cami
+80095,Argentona
+80410,Canovelles
+80885,la Garriga
+80240,Borreda
+81311,Montesquiu
+82541,l'Esquirol
+81000,Gurb
+81167,les Masies de Roda
+250642,Castellar de la Ribera
+252075,Solsona
+81593,Parets del Valles
+83067,Vilalba Sasserra
+82845,Tordera
+82981,Vic
+80615,Castellgali
+81825,el Pont de Vilomara i Rocafort
+81786,Rajadell
+80983,Sant Salvador de Guardiola
+82080,Sant Esteve Sesrovires
+82227,Sant Llorenc d'Hortons
+170834,Hostalric
+81398,Mura
+81043,la Llacuna
+82861,la Torre de Claramunt
+80556,Castellcir
+80641,Castelltercol
+80790,l'Estany
+80538,Castellbell i el Vilar
+251462,Naves
+80961,Granollers
+89024,Vilanova del Valles
+82476,Santa Eulalia de Riuprimer
+81206,Matadepera
+82779,Talamanca
+81751,Puig-reig
+83089,Viver i Serrateix
+81326,Montmajor
+251517,Olius
+80594,Castellfollit del Boix
+80636,Castelloli
+171674,Sant Joan de les Abadesses
+80431,Canyelles
+81516,Orista
+81496,Olost
+80333,Caldes de Montbui
+81081,Llicia de Vall
+82401,Sant Sadurni d'Anoia
+82613,Santa Susanna
+81419,Navas
+82798,Terrassa
+82900,Ullastrell
+80517,Castellar del Valles
+81672,Polinya
+82606,Santa Perpetua de Mogoda
+82135,Sant Fruitos de Bages
+80137,Avinyonet del Penedes
+81192,Masquefa
+81918,Sallent
+171122,Ogassa
+171772,Sant Pau de Seguries
+80386,Callus
+80847,Fonollosa
+83073,Vilanova i la Geltru
+81982,Sant Antoni de Vilamajor
+80023,Aguilar de Segarra
+81614,Piera
+82877,Torrelavit
+172207,Viladrau
+82785,Taradell
+81290,Muntanyola
+80235,Bigues i Riells del Fai
+82573,Santa Maria de Miralles
+82508,Santa Margarida de Montbui
+81635,Pineda de Mar
+80620,Castellnou de Bages
+81640,el Pla del Penedes
+82495,Santa Fe del Penedes
+82956,Vallirana
+81402,Navarcles
+82460,Santa Eugenia de Berga
+81846,Rubi
+82384,Sant Quirze del Valles
+82917,Vacarisses
+80608,Castellfollit de Riubregos
+171030,Macanet de la Selva
+80076,Arenys de Munt
+80039,Alella
+81115,Malla
+80018,Abrera
+82418,Sant Sadurni d'Osormort
+81069,Llinars del Valles
+81653,la Pobla de Claramunt
+80291,Cabrera de Mar
+TJOVE,TJOVE (totes les zones)
